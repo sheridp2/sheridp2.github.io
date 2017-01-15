@@ -1,0 +1,74 @@
+html {
+     height: 100%;
+
+   }
+   body {
+      width: 1700px;
+      height: 100%;
+      background-image: url(http://msscetjalna.org/images/1111.png);
+      background-position: absolute;
+      background-repeat: repeat;
+      font-style: italic;
+
+
+   }
+
+   header {
+       background-color: #4c4c4c;
+       padding: 20px;
+       border: 3px solid black;
+       font-size: 32;
+       text-align: center;
+       display: block;
+   }
+   nav {
+       float: middle;
+   }
+   nav ul {
+       padding: ;
+       float: left;
+       border-bottom: ;
+       list-style-type: none;
+   }
+   nav li {
+       float: left;
+   }
+   nav li a {
+       background-color: #4c4c4c;
+       color: black;
+       border: 3px solid black;
+       display: block;
+       height: 25px;
+       padding: 12px 18px 8px 18px;
+       vertical-align: center;
+   }
+   a {
+       color: black;
+   }
+   section {
+       width: 73%;
+       display: inline;
+       background-color: ;
+       padding: 10px;
+       font-size: 16;
+       break-after: always;
+   }
+   aside {
+       width: 17%;
+       display: inline;
+       background-color:;
+       padding:;
+       min-height: 100%;
+   }
+   aside ul {
+       list-style-type: none;
+   }
+   footer {
+       width: 790px;
+       background-color: ;
+
+       color:;
+       text-align: center;
+       clear: both;
+       display: block;
+   }
